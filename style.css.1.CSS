@@ -1,16 +1,16 @@
 H2 { 
     padding:5px 0 0 7px;
-    background:src="Images/verh.gif" no-repeat left top;
+    background:url(verh.gif) no-repeat left top;
      font-family:Arial Narrow;
      Color:#94b767 ;
      Font-size :1.2em ;
     }
     .b1 {
     width:424px;
-    background:src="Images/telo.gif repeat-y;
+    background:url(telo.gif) repeat-y;
     }
     .b3 {
-    background:src="Images/niz.gif no-repeat left bottom;
+    background:url(niz.gif) no-repeat left bottom;
     margin:0;
      padding:0 5px 15px 5px;
     font-family:Tahoma ;
