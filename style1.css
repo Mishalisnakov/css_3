@@ -126,7 +126,7 @@ Body {
    }
    .fotos{
        width: auto;
-       height: auto;
+       height: 205px;
        clear: both;
        padding: 15px;
    }
