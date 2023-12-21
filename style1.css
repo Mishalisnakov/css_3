@@ -9,7 +9,7 @@ Body {
    p{
        margin: 0px; 
        padding:5px 0 0 0;
-       text-align: center;
+       text-align: justify;
        line-height: 15px;
    } 
    .title {
@@ -33,7 +33,7 @@ Body {
    .menu{
        clear: both;
        height: 23px;
-       padding: 5px 0 0 30px;
+       padding: 53px 0 0 30px;
    }
    .menu a{
     padding-right: 18px;
